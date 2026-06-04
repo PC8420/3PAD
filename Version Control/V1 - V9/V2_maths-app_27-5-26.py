@@ -17,7 +17,7 @@ def main_menu():
     main_window.title("Maths Mania! | Home Menu")
     
     main_bg = tk.PhotoImage(file = "images/main_bg.png")
-    play = tk.PhotoImage(file = "images/play.png")
+    play = tk.PhotoImage(file = "images/play - copy.png")
 
     main_canvas = Canvas(main_window, width = 1280, height = 640, bg="purple")
     main_canvas.pack(fill="both", expand=True)
